@@ -1,0 +1,10 @@
+C# is a strong Object Oriented programming language that is mostly built on the .NET framework.
+
+.NET is a blanket term that tends to cover both the .NET Framework (an application framework library) and the Common Language Runtime which is the runtime in which .NET assemblies are run.
+
+Framework means it contained different applications. Some of the applications are Console Application, Windows Applications, Web Applications. .NET Framework supports more than 20 languages. 
+
+The .NET libraries can run on the CLR and thus any language which can run on the CLR can also use the .NET libraries. 
+
+C# is the airplane and .NET is the runway.
+
